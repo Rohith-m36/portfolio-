@@ -18,7 +18,7 @@ const Education = () => {
             id: 1,
             name: "Bachelor's in Technology - Computer Science and Engineering",
             type: "Education",
-            details: "Completed my Bachelor's degree from Malla Reddy University, Hyderabad with a final percentage of 75.33%."
+            details: "Completed my Bachelor's degree from Malla Reddy University, Hyderabad with a final percentage of 7.98(CGPA)."
         },
         {
             id: 2,
