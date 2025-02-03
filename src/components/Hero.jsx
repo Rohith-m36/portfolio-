@@ -18,7 +18,7 @@ const Hero = () => {
             <p className='md:text-2xl text-xl mb-4'>Full-Stack Developer</p>
             <p className='mb-4'>I'm a passionate Full-Stack Developer skilled in creating scalable web applications. I have expertise in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and SQL. I love building responsive and user-friendly websites that solve real-world problems.</p>
             <button className='bg-black text-white px-3 py-2 w-max rounded-md'>
-              <a href="https://drive.google.com/file/d/1shLRq89XUfhcsEHlBjNpnOmO478Way8O/view?usp=drivesdk" download target='_blank'>Download CV</a>
+              <a href="https://drive.google.com/file/d/1Dx6_yBtONVJp10_AWOyaWlCeizp4ZgcC/view?usp=drivesdk" download target='_blank'>Download CV</a>
             </button>
 
           </div>
