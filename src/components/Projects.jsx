@@ -3,6 +3,7 @@ import Portfolio from '../assets/Portfolio.png'
 import MovieApp from '../assets/MovieApp.png'
 import RecipeFinder from '../assets/RecipeFinder.png'
 import trendifyshopping from '../assets/trendifyshopping.png'
+import grocer from '../assets/grocer-ooo.png'
 import Cards from './Cards'
 
 
@@ -36,6 +37,13 @@ const Projects = () => {
           image:  trendifyshopping,
           live: "https://trendifyshopping.netlify.app/",
           github: "https://github.com/Rohith-m36/shopping"
+        },
+        {
+          title: 'grocer-ooo',
+          desc: 'Grocer-OOO is a full-stack e-commerce app for grocery shopping with secure payment integration. It features a user-friendly frontend and a backend ',
+          image:  grocer,
+          live: "https://grocer-ooo-full-stack-f1x9.vercel.app/",
+          github: "https://github.com/Rohith-m36/grocer.ooo-Full-Stack"
         },
       
       ];
